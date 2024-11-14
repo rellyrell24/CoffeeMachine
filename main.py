@@ -29,7 +29,7 @@ resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
-    "tea": 70,
+    # "tea": 70,
 }
 
 
