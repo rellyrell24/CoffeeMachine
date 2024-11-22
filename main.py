@@ -6,7 +6,7 @@ MENU = {
         },
         "cost": 1.5,
     },
-    "latte": {
+    "latte": { 
         "ingredients": {
             "water": 200,
             "milk": 150,
